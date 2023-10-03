@@ -1,6 +1,3 @@
-![GitHub followers](https://img.shields.io/github/followers/neilveil)
-![Github Gist stars](https://img.shields.io/github/stars/neilveil)
-
 <!-- $$intro-start$$ -->
 
 Greetings,
