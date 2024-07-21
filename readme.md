@@ -30,7 +30,7 @@ Hello, I'm Neil Arya from India, contributing some useful & reliable code snippe
 
 - [Deload](https://github.com/neilveil/deload)&nbsp;&nbsp;*Dynamically load scripts & stylesheets when required*
 
-- [Icon Sheet](https://neilveil.github.io/icon-sheet)&nbsp;&nbsp;*Generate Icon Font from SVG files*
+- [Icon Sheet](https://github.com/neilveil/icon-sheet)&nbsp;&nbsp;*Generate Icon Font from SVG files*
 
 - [Devils](https://github.com/neilveil/devils)&nbsp;&nbsp;*A collection of useful front-end web development utility functions*
 
