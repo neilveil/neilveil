@@ -1,39 +1,35 @@
 <!-- $$intro-start$$ -->
 
-Greetings,
-
-Hello, I'm Neil Arya from India, contributing some useful & reliable code snippets & packages on Github.
+Hey, I'm Neil Arya -- a Principal Engineer from India with 9+ years of experience building scalable systems, developer tools, and open-source packages.
 
 <!-- $$intro-end$$ -->
 
 <!-- $$links-start$$ -->
 
-[Profile →](https://neilveil.github.io)
+[Website →](https://neilveil.xyz)
+
+[LinkedIn →](https://www.linkedin.com/in/neilarya)
 
 [Sponsor →](https://github.com/sponsors/neilveil)
 
 <!-- $$links-end$$ -->
 
-## Top contributions
+## Open Source
 
 <!-- $$repositories-start$$ -->
 
-- [MumpUI](https://neilveil.github.io/mumpui)&nbsp;&nbsp;*A light-weight & customizable ReactJS UI library with zero dependencies*
+- [Typed Bridge](https://github.com/neilveil/typed-bridge)&nbsp;&nbsp;*Strictly typed server functions*
 
-- [Express Tools](https://github.com/neilveil/express-tools)&nbsp;&nbsp;*NodeJS back-end framework built on top of Express*
+- [RenderX](https://github.com/neilveil/renderx)&nbsp;&nbsp;*On-the-fly HTML prerender service for SPAs*
 
-- [Build Plus](https://github.com/neilveil/build-plus)&nbsp;&nbsp;*Generate & Inject Static HTML Pages in Single Page Applications Build*
+- [MumpUI](https://github.com/neilveil/mumpui)&nbsp;&nbsp;*Light-weight & customizable React UI library with zero dependencies*
 
-- [Repman](https://github.com/neilveil/repman)&nbsp;&nbsp;*CLI based multiple git repository tracking & management tool*
-
-- [Jinie](https://neilveil.github.io/jinie)&nbsp;&nbsp;*Simple Image Editing & Compression Tool*
+- [Quick Worker](https://github.com/neilveil/quick-worker)&nbsp;&nbsp;*Automatic browser file caching with zero configuration*
 
 - [Deload](https://github.com/neilveil/deload)&nbsp;&nbsp;*Dynamically load scripts & stylesheets when required*
 
-- [Icon Sheet](https://github.com/neilveil/icon-sheet)&nbsp;&nbsp;*Generate Icon Font from SVG files*
+- [Clone Kit](https://github.com/neilveil/clone-kit)&nbsp;&nbsp;*Clone common assets among multiple projects from server*
 
-- [Devils](https://github.com/neilveil/devils)&nbsp;&nbsp;*A collection of useful front-end web development utility functions*
-
-- [Compression Loop](https://github.com/neilveil/compression-loop)&nbsp;&nbsp;*Optimally compress image in browser to the target size*
+- [Build Plus](https://github.com/neilveil/build-plus)&nbsp;&nbsp;*Generate & inject static HTML pages in SPA builds*
 
 <!-- $$repositories-end$$ -->
