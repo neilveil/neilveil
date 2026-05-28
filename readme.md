@@ -1,6 +1,8 @@
 <!-- $$intro-start$$ -->
 
-Hey, I'm Neil Arya -- a Principal Engineer from India with 9+ years of experience building scalable systems, developer tools, and open-source packages.
+Greetings,
+
+Hello, I'm Neil Arya from India, contributing some useful & reliable code snippets & packages on Github.
 
 <!-- $$intro-end$$ -->
 
@@ -9,8 +11,6 @@ Hey, I'm Neil Arya -- a Principal Engineer from India with 9+ years of experienc
 [Website →](https://neilveil.xyz)
 
 [LinkedIn →](https://www.linkedin.com/in/neilarya)
-
-[Sponsor →](https://github.com/sponsors/neilveil)
 
 <!-- $$links-end$$ -->
 
